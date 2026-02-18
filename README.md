@@ -76,5 +76,5 @@ Opens `dashboard.html` in your browser with live data.
 - Building production-grade dashboards
 - Real-time API integration
 - Prompt engineering for UI/UX design with AI
-- Chart.js for interactive visualizations
+- Prompt engineering for Chart.js for interactive visualizations
 - OAuth authentication
